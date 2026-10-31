@@ -6,7 +6,7 @@
     {% endif %}
     {% if page.date %}
       <time class="post-meta-date" datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%B %-d, %Y" }}
+        {{ page.date | date: "%-d. %m. %Y" }}
       </time>
     {% endif %}
     {% if site.theme_config.show_reading_time == true %}

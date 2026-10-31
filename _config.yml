@@ -1,9 +1,9 @@
-title: Osebna stran
+title: Formalni jereb
 author: Janez Ignacij Jereb
 url: https://jerebji.github.io # root address of the site
 baseurl: "" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
-  Moja spletna stran
+  Nekaj o programiranju, formalnih metodah, statistiki in vizualizaciji podatkov.
 
 permalink: /:slug
 
