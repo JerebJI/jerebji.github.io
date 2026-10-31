@@ -9,4 +9,8 @@ toc: false
 
 WIP
 
-![Graf rojstev](../images/graf_rojstev.png)
+<a href="../images/graf_rojstev.png" class="glightbox">
+  <img src="../images/graf_rojstev.png"
+       alt="Graf rojstev"
+       style="max-width: 100%;">
+</a>
