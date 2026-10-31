@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.3.1/css/glightbox.min.css">
 
 <a href="javascript:history.back()" class="back-link" aria-label="Go back">
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -21,3 +23,14 @@ layout: default
 {%- if site.theme_config.show_post_nav -%}
   {% include post_nav.html %}
 {%- endif -%}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.3.1/js/glightbox.min.js"></script>
+
+<script>
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: false,
+    zoomable: true
+  });
+</script>
