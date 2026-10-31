@@ -9,15 +9,35 @@ layout: default
 {% endif %}
 
   <div style="display: flow-root;">
-    <img align="left" style="
+    <style>
+      @media screen and (max-width: 768px) {
+        .profile-image {
+          width: 96px !important;
+          height: auto;
+          margin-right: 2em !important;
+          margin-bottom: 1.5em !important;
+          margin-top: 1.5em !important;
+        }
+        .site-description {
+          clear: both;
+          margin-bottom: 0em;
+        }
+        .site-title {
+          margin-top: 0.8em;
+        }
+      }
+    </style>
+    <img class="profile-image" align="left" style="
     padding: 3px;
-    margin: 1em 3.5em 1em 1em;
+    margin-right: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
     border:3px solid var(--text-secondary);
     border-radius: 500px;"
     src="../images/Duch_lesa-modified-overlay.png" alt="">
-    <h1 style="padding-top: 0.5em;">{{ site.title }}</h1>
+    <h1 class="site-title" style="padding-top: 1em;">{{ site.title }}</h1>
     {% if site.theme_config.show_description == true %}
-      <p>{{ site.description }}</p>
+      <p class="site-description">{{ site.description }}</p>
     {% endif %}
   </div>
 </header>
