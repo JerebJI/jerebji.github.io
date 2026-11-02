@@ -7,6 +7,10 @@
       {{ item.title }}
     {% endif %}
 
+    {% if item.vibe_coded %}
+      <mark style="color: red; font-size: 0.8em; background-color: transparent;"> (vibe coded) </mark>
+    {% endif %}
+
     {% if item.post_list == true %}
       {% include post_list.html %}
     {% endif %}

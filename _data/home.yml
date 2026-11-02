@@ -18,6 +18,11 @@ presentations_entries:
   - title: Alloy delavnica
     url: alloydelavnica
 
+project_entries:
+  - title: Stare novice
+    url: https://stare-novice-rss.fly.dev/
+    vibe_coded: true
+
 footer_entries:
   - title: GitHub
     url: https://github.com/jerebji
