@@ -23,6 +23,12 @@ project_entries:
     url: https://stare-novice-rss.fly.dev/
     vibe_coded: true
 
+  - title: Reševalec sistemov enačb množic
+    url: https://swish.swi-prolog.org/p/set_solver1.pl
+
+  - title: Reševalec problemov Bayesovih mrež
+    url: https://swish.swi-prolog.org/p/Bayes_network_solver.pl
+
 footer_entries:
   - title: GitHub
     url: https://github.com/jerebji

@@ -34,7 +34,7 @@ theme_config:
   show_link_previews: true # show preview cards when hovering internal post links
   # options for "home" page
   home:
-    title_projects: Projekti
+    title_projects: Stari projekti
     title_blog: Blog
     title_presentations: Predstavitve
 
