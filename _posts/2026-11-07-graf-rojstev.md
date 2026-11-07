@@ -62,8 +62,8 @@ Sedaj lahko vidimo, da je večino rojstev med avgustom in septembrom. To si najl
 
 Zanimiva so odstopanja od trenda. Še posebej spodnji osamelci. Večino spodnjih osamelcev lahko razložimo z dorisanimi prazniki.
 
-<a href="../images/graf-rojstev-imgs/img_5.png" class="glightbox">
-  <img src="../images/graf-rojstev-imgs/img_5.png"
+<a href="../images/graf-rojstev-imgs/img_5r.png" class="glightbox">
+  <img src="../images/graf-rojstev-imgs/img_5r.png"
        alt="Graf rojstev"
        style="max-width: 100%;">
 </a>
@@ -87,6 +87,16 @@ porazdeljujejo normalno.
        style="max-width: 100%;">
 </a>
 
+Hribčki so še vedno prisotni. Med njimi najbolj izstopa septemberski. Zdi se mi, da so preostali hribčki razloženi s prazniki, septembrski pa s prazničnim decemberskim vzdušjem.
+
+Na koncu sem se odločil ohraniti peti graf. Sem mu dodal še barvanje po letnih časih.
+
+<a href="../images/graf-rojstev-imgs/img_5.png" class="glightbox">
+  <img src="../images/graf-rojstev-imgs/img_5.png"
+       alt="Graf rojstev"
+       style="max-width: 100%;">
+</a>
+
 ## Zaključek
 
-S tem zaključimo zgodbo o tem grafu. Seveda, je še mnogo zanivih smeri, ki bi jih lahko ubrali (primerjava med leti, dnevi v tednu, uporaba verjetnostnega programiranja, itd.). Upam, da je bila tako zanimiva za branje, kot je bilo meni pri risanju grafa.
+S tem zaključimo zgodbo o tem grafu. Seveda, je še mnogo zanimivih smeri, ki bi jih lahko ubrali (primerjava med leti, dnevi v tednu, uporaba verjetnostnega programiranja, itd.). Upam, da je bila tako zanimiva za branje, kot je bilo meni pri risanju grafa.
