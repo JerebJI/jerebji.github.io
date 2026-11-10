@@ -78,8 +78,8 @@ Zato da lažje ocenimo, ali gre za dejanska odstopanja lahko odštejemo sinusoid
        style="max-width: 100%;">
 </a>
 
-Dodatna potrditev za smiselnost sinusoide vidimo s tem, da se podatki (na videz)
-porazdeljujejo normalno.
+Dodatna potrditev za smiselnost sinusoide vidimo s tem, da se podatki
+"deloma" porazdeljujejo normalno.
 
 <a href="../images/graf-rojstev-imgs/img_7.png" class="glightbox">
   <img src="../images/graf-rojstev-imgs/img_7.png"
