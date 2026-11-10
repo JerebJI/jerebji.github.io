@@ -89,7 +89,7 @@ porazdeljujejo normalno.
 
 Hribčki so še vedno prisotni. Med njimi najbolj izstopa septemberski. Zdi se mi, da so preostali hribčki razloženi s prazniki, septembrski pa s prazničnim decemberskim vzdušjem.
 
-Na koncu sem se odločil ohraniti peti graf. Sem mu dodal še barvanje po letnih časih.
+Na koncu sem se odločil ohraniti peti graf. Dodal sem mu še barvanje po letnih časih.
 
 <a href="../images/graf-rojstev-imgs/img_5.png" class="glightbox">
   <img src="../images/graf-rojstev-imgs/img_5.png"
